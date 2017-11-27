@@ -1,1 +1,0 @@
-{"nodes":[{"content":"Hello World","pos":[2,13]},{"pos":[15,59],"content":"This is a test file for locale <bpt id=\"p1\">*</bpt>lower case<ept id=\"p1\">*</ept>!","source":"This is a test file for locale *lower case*!"}],"content":"# Hello World\n\nThis is a test file for locale *lower case*!\n"}
